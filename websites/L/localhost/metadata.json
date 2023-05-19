@@ -1,0 +1,22 @@
+{
+	"$schema": "https://schemas.premid.app/metadata/1.7",
+	"author": {
+		"id": "242621043561201666",
+		"name": "GreenMan36"
+	},
+	"service": "localhost",
+	"description": {
+		"en": "localhost is often used for local services or during development, this presence will try to display what is being used or the technology."
+	},
+	"url": "status.wordnik.com",
+	"version": "1.0.0",
+	"logo": "https://i.imgur.com/S5Bh7Qt.png",
+	"thumbnail": "https://i.imgur.com/D3KbDOr.png",
+	"color": "#000000",
+	"category": "other",
+	"tags": [
+		"development",
+		"coding",
+		"programming"
+	]
+}

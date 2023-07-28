@@ -82,7 +82,6 @@ presence.on("UpdateData", async () => {
 				const newPresenceData: PresenceData = { ...presenceData };
 
 				if (pathname === "/agent") {
-					console.log(result);
 					newPresenceData.details = `${i + 1}. ${[
 						...result.querySelectorAll("span.badge"),
 					]
